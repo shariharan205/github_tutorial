@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contribute to someone's repository
+title: Contribute to someone's repositories
 description: Contributing to someone's GitHub repository
 ---
 
